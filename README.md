@@ -15,3 +15,9 @@ A página está disponível em: https://ernanesa.github.io/helloWorld/
 1. Clone o repositório
 2. Abra o arquivo index.html em seu navegador
 3. Ou acesse a versão online através do GitHub Pages
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- GitHub Pages
